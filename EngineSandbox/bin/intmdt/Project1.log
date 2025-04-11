@@ -1,0 +1,50 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Mesh.cpp
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Mesh.cpp(29,45): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Model.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Model.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Model.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Model.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+D:\projects\VSstudio\PETS\EngineSandbox\classes\model&mesh\Model.cpp(67,31): warning C4018: '<': signed/unsigned mismatch
+  texture.cpp
+  timer.cpp
+  vertexArray.cpp
+  vertexBuffer.cpp
+  shader.cpp
+  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  input.cpp
+D:\projects\VSstudio\PETS\EngineSandbox\input\input.cpp(49,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  glad.c
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  Project1.vcxproj -> D:\projects\VSstudio\PETS\EngineSandbox\bin\Debug\x64\Project1.exe
